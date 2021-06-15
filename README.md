@@ -11,6 +11,6 @@ This project uses different deep learning algorithms on the data set of two beha
 
 ## Neural Network Algorihms:
 * Neural Network Classifer: 
-- * OversampledDACData.ipynb file has details about the data oversampling technique and implementation of a deep neural network classifer.
+- OversampledDACData.ipynb file has details about the data oversampling technique and implementation of a deep neural network classifer.
 * Neural Network Classifer (Touchalytics): OversampledTouchalyticsOData.ipynb file has details about the data oversampling technique and implementation of a deep neural network classifer.
 * AutoEncoder (Touchalytics): TouchalyticsAutoEncoder.ipynb file has details about the implementation of AutoEncoder.
